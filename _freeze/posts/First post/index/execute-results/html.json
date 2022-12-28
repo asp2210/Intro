@@ -1,0 +1,14 @@
+{
+  "hash": "0a0bf82807ec88b061500df696b0146d",
+  "result": {
+    "markdown": "---\ntitle: \"First post\"\nauthor: \"Aishwarya P\"\ndate: \"2022-12-27\"\ncategories: [thoughts]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nTesting...\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

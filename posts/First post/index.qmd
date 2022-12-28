@@ -1,0 +1,15 @@
+---
+title: "First post"
+author: "Aishwarya P"
+date: "2022-12-27"
+categories: [thoughts]
+image: "vishnu-cosmic-ocean.webp"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
+
+Testing...
